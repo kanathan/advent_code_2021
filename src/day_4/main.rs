@@ -66,12 +66,6 @@ impl Board {
         }
     }
 
-    fn print_board(&self) {
-        for entry_set in self.entries.iter() {
-            println!("{:?}",entry_set);
-        }
-    }
-
     fn get_score(&self) -> Option<i64> {
         self.winning_score
     }
