@@ -106,7 +106,7 @@ fn parse_input_large(input: &str) -> Array2<u32> {
             for seg_y in 0..5 {
                 let y_offset = dims.1 * (seg_y as usize);
                 for seg_x in 0..5 {
-                    let mut seg_val = (val + seg_x + seg_y);
+                    let mut seg_val = val + seg_x + seg_y;
                     while seg_val >= 10 {
                         seg_val -= 9;
                     }
