@@ -1,0 +1,39 @@
+z.push(A+5)
+
+z.push(B+9)
+
+z.push(C+4)
+
+if D != z.pop() -12
+    z.push(D+4)
+
+z.push(E+10)
+
+if F != z.pop() - 13
+    z.push(F+14)
+
+if G != z.pop() - 9
+    z.push(G+14)
+
+if H != z.pop() - 12
+    z.push(H+12)
+
+z.push(I+14)
+
+if J != z.pop() - 9
+    z.push(J+14)
+
+z.push(K+5)
+
+z.push(L+10)
+
+if M != z.pop() - 16
+    z.push(M+8)
+
+if N != z.pop() - 2
+    z.push(N+15)
+
+
+
+
+
