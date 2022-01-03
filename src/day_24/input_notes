@@ -36,4 +36,20 @@ if N != z.pop() - 2
 
 
 
+THEREFORE
 
+D = C - 8
+F = E - 3
+G = B
+H = A - 7
+J = I + 5
+M = L - 6
+N = K + 3
+
+
+MAX NUMBER
+ABCDEFGHIJKLMN
+99919692496939
+MIN
+ABCDEFGHIJKLMN
+81914111161714
